@@ -3,4 +3,4 @@
 
 pip install selenium
 pip install webdriver-manager
-# 안되면크롬 드라이버 설치 하셈 
+# 안되면 크롬 드라이버 설치 하셈 
